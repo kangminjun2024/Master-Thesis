@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=150&section=header" />
+
 # Master-Thesis
 ## It is a research paper in the field of digital healthcare.
 
@@ -13,3 +15,4 @@ https://kr.mathworks.com
 -. YOLO (version - v4)  
 https://github.com/AlexeyAB/darknet
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=150&section=footer" />
