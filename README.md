@@ -15,4 +15,7 @@ https://kr.mathworks.com
 -. YOLO (version - v4)  
 https://github.com/AlexeyAB/darknet
 
+- ### Thesis
+https://dcollection.yonsei.ac.kr/srch/srchDetail/000000553261
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=150&section=footer" />
